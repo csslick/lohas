@@ -32,10 +32,10 @@ $(function(){
 
   $("#content .main-visual").vegas({
     slides: [
-        { src: "/images/main-visual1.jpg" },
-        { src: "/images/main-visual2.jpg" },
-        { src: "/images/main-visual3.jpg" },
-        { src: "/images/main-visual4.jpg" }
+        { src: "images/main-visual1.jpg" },
+        { src: "images/main-visual2.jpg" },
+        { src: "images/main-visual3.jpg" },
+        { src: "images/main-visual4.jpg" }
     ],
     timer: true,  // 하단 진행그래프 설정
     delay: 2000, // 대기시간
